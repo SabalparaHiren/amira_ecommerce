@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+import '../../../components/_close_activity.dart';
 import '../../../components/_input_fields.dart';
 import '../../../constant.dart';
-import '../../../components/_close_activity.dart';
-import 'package:get/get.dart';
 
 Stack loginBody(context) {
   final deviceWidth = MediaQuery.of(context).size.width;

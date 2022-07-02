@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'component/_row_price_rating.dart';
-import 'component/_build_app_bar.dart';
 
 import '../../constant.dart';
 import '../../models/Product.dart';
+import 'component/_build_app_bar.dart';
 import 'component/_build_cart_btn.dart';
 import 'component/_image_view.dart';
+import 'component/_row_price_rating.dart';
 
 class ProductDetail extends StatelessWidget {
   ProductDetail({Key key, this.product}) : super(key: key);

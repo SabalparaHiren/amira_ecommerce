@@ -1,5 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:amira_ecommerce/screen/home/components/_body.dart';
+import 'package:flutter/material.dart';
+
 import '../../models/_res_files.dart';
 
 class HomePage extends StatelessWidget {

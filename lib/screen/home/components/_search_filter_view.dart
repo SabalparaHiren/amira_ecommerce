@@ -1,6 +1,6 @@
+import 'package:amira_ecommerce/components/_close_activity.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:amira_ecommerce/components/_close_activity.dart';
 
 Row buildSearchRow() {
   return Row(

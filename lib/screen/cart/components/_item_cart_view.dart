@@ -1,6 +1,7 @@
-import 'package:flutter/material.dart';
 import 'package:amira_ecommerce/constant.dart';
 import 'package:amira_ecommerce/helper/_utils.dart';
+import 'package:flutter/material.dart';
+
 import '_card_img.dart';
 
 Card buildCartCard(product) {

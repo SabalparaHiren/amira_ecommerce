@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import '../../cart/cart_page.dart';
 import 'package:get/get.dart';
+
+import '../../cart/cart_page.dart';
 
 OutlinedButton btnAddToCart(BuildContext context, product) {
   return OutlinedButton(
