@@ -1,8 +1,8 @@
-import 'package:flutter/material.dart';
 import 'package:amira_ecommerce/models/Product.dart';
 import 'package:amira_ecommerce/screen/details/detail_page.dart';
-import 'package:get/instance_manager.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:get/instance_manager.dart';
 
 buildPopularCard(Product product) {
   return Padding(

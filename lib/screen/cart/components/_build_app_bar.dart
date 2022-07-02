@@ -1,7 +1,8 @@
-import 'package:flutter/cupertino.dart';
 import 'package:amira_ecommerce/components/_close_activity.dart';
-import 'package:get/get.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
 import '../../payment/payment_page.dart';
 
 AppBar buildAppBar(BuildContext context) {

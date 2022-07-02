@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import '../../../components/_star_rating.dart' show showStarRating;
 import '../../../models/Product.dart';
 

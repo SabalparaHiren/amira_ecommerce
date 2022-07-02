@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../../details/detail_page.dart';
 import 'package:get/get.dart';
 
+import '../../details/detail_page.dart';
 import '_build_category_card.dart';
 import '_build_popular_card.dart';
 
